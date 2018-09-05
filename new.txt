@@ -1,1 +1,3 @@
 Adding hot new JavaScript codez
+
+These tests make sure nothing breaks.
