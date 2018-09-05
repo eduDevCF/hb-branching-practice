@@ -1,1 +1,2 @@
 This is the new project.
+Line 2
