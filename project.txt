@@ -4,3 +4,6 @@ Line 2
 Here is the new kittens feature! Mrowwww!
 
 Implement bug fix. No more bugs!
+
+Here is a message from Christina.
+End message.
